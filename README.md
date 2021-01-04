@@ -1,3 +1,0 @@
-# peliculas
-# peliculas
-git readme
